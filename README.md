@@ -3,7 +3,7 @@
 C4Context
       title layout of kivtechs.cloud
       Enterprise_Boundary(b0, "BankBoundary0") {
-        Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
+        main(main, "main page", "Entry node")
         Person(customerB, "Banking Customer B")
         Person_Ext(customerC, "Banking Customer C", "desc")
 
