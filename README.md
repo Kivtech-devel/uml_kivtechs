@@ -1,7 +1,7 @@
 # uml_kivtechs
 ```mermaid
 C4Context
-      title System Context diagram for Internet Banking System
+      title layout of kivtechs.cloud
       Enterprise_Boundary(b0, "BankBoundary0") {
         Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
         Person(customerB, "Banking Customer B")
